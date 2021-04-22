@@ -1,4 +1,4 @@
-//testing circleci
+//testing continuous integration
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { createStore, combineReducers, applyMiddleware } from 'redux';
